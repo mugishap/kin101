@@ -1,0 +1,8 @@
+reka name = injiza_amakuru("What's your name? ")
+tangaza_amakuru("Hello, ", name, "!")
+porogaramu_ntoya main() {
+    tangaza_amakuru("Muri porogaramu_ntoya")
+    tanga;
+}
+
+main()
